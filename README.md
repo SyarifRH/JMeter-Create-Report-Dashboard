@@ -15,6 +15,7 @@
 > > **Note**
 > > Once the load test has finished executing, open the index.html file in the output folder to view the report dashboard.
 > ```
+> Note: Make sure to replace the file paths with the actual paths on your machine.
 > 
 > :octocat: 🐳
 
