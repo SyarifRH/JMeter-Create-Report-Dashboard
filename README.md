@@ -1,9 +1,10 @@
 # JMeter-Create-Report-Dashboard
 
-> To better highlight and separate certain information from the rest in your documentation on GitHub, we now render a special and accessible **note** or **warning** blockquote in Markdown documents. We are using the existing syntax for blockquote and bold text.
+> Use the following command to run the load test and generate the report dashboard: jmeter -n -t [path to Test Plan file] -l [path to results file] -e -o [path to output folder].
 > 
-> > Note
-> > The first line must be exactly as shown below. The first letter is case sensitive. The second line can contain your content.
+> > For example:
+> > jmeter -n -t C:\Users\Username\Documents\TestPlan.jmx -l C:\Users\Username\Documents\Results.jtl -e -o C:\Users\Username\Documents\Output
+> > Once the load test has finished executing, open the index.html file in the output folder to view the report dashboard.
 > 
 > **This input:**
 > 
