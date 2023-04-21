@@ -10,8 +10,11 @@
 > 
 > ```
 > > **For example:**
-> > jmeter -n -t C:\Users\Username\Documents\TestPlan.jmx -l C:\Users\Username\Documents\Results.jtl -e -o C:\Users\Username\Documents\Output
-> 
+> > jmeter -n -t C:\Users\Username\Documents\TestPlan.jmx -l C:\Users\Username\Documents\Results.jtl -e -o C:\Users\Username\Documents\Output\[path]
+>
+> > OR
+> > jmeter -n -t D:\JMeter\Get_Books_Thread.jmx -l D:\JMeter\test-dir\report/csv -e -o D:\JMeter\Results
+>
 > > **Note**
 > > Once the load test has finished executing, open the index.html file in the output folder to view the report dashboard.
 > ```
