@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1682091342916,1251,Get Booking ID,200,OK,Thread Groups 1-6,text,true,,3041,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,1239,0,1020
+1682091342317,1850,Get Booking ID,200,OK,Thread Groups 1-3,text,true,,3041,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,1837,0,1618
+1682091342160,2011,Get Booking ID,200,OK,Thread Groups 1-1,text,true,,3036,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,1996,0,1779
+1682091343510,771,Get Booking ID,200,OK,Thread Groups 1-9,text,true,,3039,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,770,0,576
+1682091343111,1066,Get Booking ID,200,OK,Thread Groups 1-7,text,true,,3041,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,1045,0,826
+1682091342160,2020,Get Booking ID,200,OK,Thread Groups 1-2,text,true,,3043,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,1996,0,1777
+1682091342500,1676,Get Booking ID,200,OK,Thread Groups 1-4,text,true,,3037,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,1676,0,1438
+1682091343334,848,Get Booking ID,200,OK,Thread Groups 1-8,text,true,,3041,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,848,0,632
+1682091342745,1428,Get Booking ID,200,OK,Thread Groups 1-5,text,true,,3041,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,1428,0,1191
+1682091344303,179,Get Activity By ID,200,OK,Thread Groups 1-1,text,true,,289,179,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities/12,178,0,0
+1682091344298,184,Get Activity By ID,200,OK,Thread Groups 1-6,text,true,,287,178,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities/4,183,0,0
+1682091344306,178,Get Activity By ID,200,OK,Thread Groups 1-9,text,true,,289,179,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities/16,178,0,0
+1682091344309,184,Get Activity By ID,200,OK,Thread Groups 1-2,text,true,,288,178,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities/1,184,0,0
+1682091344314,182,Get Activity By ID,200,OK,Thread Groups 1-7,text,true,,290,179,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities/25,181,0,0
+1682091344314,182,Get Activity By ID,200,OK,Thread Groups 1-8,text,true,,290,179,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities/15,182,0,0
+1682091344312,185,Get Activity By ID,200,OK,Thread Groups 1-4,text,true,,287,178,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities/9,185,0,0
+1682091344316,195,Get Activity By ID,200,OK,Thread Groups 1-5,text,true,,290,179,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities/17,195,0,0
+1682091343769,780,Get Booking ID,200,OK,Thread Groups 1-10,text,true,,3039,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,780,0,592
+1682091344485,185,Get Booking ID,200,OK,Thread Groups 1-9,text,true,,3044,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,184,0,0
+1682091344483,187,Get Booking ID,200,OK,Thread Groups 1-6,text,true,,3039,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,187,0,0
+1682091344483,196,Get Booking ID,200,OK,Thread Groups 1-1,text,true,,3047,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,195,0,0
+1682091344494,191,Get Booking ID,200,OK,Thread Groups 1-2,text,true,,3042,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,191,0,0
+1682091344498,192,Get Booking ID,200,OK,Thread Groups 1-7,text,true,,3039,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,192,0,0
+1682091344497,199,Get Booking ID,200,OK,Thread Groups 1-8,text,true,,3039,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,199,0,0
+1682091344498,204,Get Booking ID,200,OK,Thread Groups 1-4,text,true,,3041,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,204,0,0
+1682091344512,197,Get Booking ID,200,OK,Thread Groups 1-5,text,true,,3042,176,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities,196,0,0
+1682091344551,252,Get Activity By ID,200,OK,Thread Groups 1-10,text,true,,288,178,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities/5,252,0,0
+1682091344672,179,Get Activity By ID,200,OK,Thread Groups 1-9,text,true,,290,179,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities/11,179,0,0
+1682091344672,181,Get Activity By ID,200,OK,Thread Groups 1-6,text,true,,287,178,10,10,https://fakerestapi.azurewebsites.net/api/v1/Activities/6,181,0,0
+1682091344680,178,Get Activity By ID,200,OK,Thread Groups 1-1,text,true,,289,179,8,8,https://fakerestapi.azurewebsites.net/api/v1/Activities/24,178,0,0
+1682091344687,179,Get Activity By ID,200,OK,Thread Groups 1-2,text,true,,290,179,7,7,https://fakerestapi.azurewebsites.net/api/v1/Activities/29,179,0,0
+1682091344692,179,Get Activity By ID,200,OK,Thread Groups 1-7,text,true,,289,179,6,6,https://fakerestapi.azurewebsites.net/api/v1/Activities/16,178,0,0
+1682091344697,183,Get Activity By ID,200,OK,Thread Groups 1-8,text,true,,288,179,5,5,https://fakerestapi.azurewebsites.net/api/v1/Activities/18,183,0,0
+1682091344704,182,Get Activity By ID,200,OK,Thread Groups 1-4,text,true,,288,178,4,4,https://fakerestapi.azurewebsites.net/api/v1/Activities/3,182,0,0
+1682091344711,179,Get Activity By ID,200,OK,Thread Groups 1-5,text,true,,287,178,3,3,https://fakerestapi.azurewebsites.net/api/v1/Activities/6,179,0,0
+1682091344300,631,Get Activity By ID,200,OK,Thread Groups 1-3,text,true,,289,179,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities/24,631,0,0
+1682091344804,184,Get Booking ID,200,OK,Thread Groups 1-10,text,true,,3042,176,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities,184,0,0
+1682091344931,183,Get Booking ID,200,OK,Thread Groups 1-3,text,true,,3039,176,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities,183,0,0
+1682091344990,180,Get Activity By ID,200,OK,Thread Groups 1-10,text,true,,287,178,2,2,https://fakerestapi.azurewebsites.net/api/v1/Activities/4,180,0,0
+1682091345116,185,Get Activity By ID,200,OK,Thread Groups 1-3,text,true,,289,179,1,1,https://fakerestapi.azurewebsites.net/api/v1/Activities/20,184,0,0
